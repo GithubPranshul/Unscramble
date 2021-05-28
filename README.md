@@ -8,6 +8,10 @@ to make a word using all the letters from the displayed scrambled word.
 ![Screenshot_1622173570](https://user-images.githubusercontent.com/76085602/119926927-fb2d1480-bf95-11eb-9ea3-d2cc328fa1ee.png)
 ![Screenshot_1622173829](https://user-images.githubusercontent.com/76085602/119926928-fcf6d800-bf95-11eb-9cdf-936bf5eebcf0.png)
 
+Features 
+  - It's uses room to store data.
+  - MVVM 
+ 
 License
 -------
 
